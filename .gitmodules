@@ -1,0 +1,3 @@
+[submodule "dotssh"]
+	path = dotssh
+	url = git@bitbucket.org:applejack1337/dotssh.git
